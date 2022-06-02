@@ -1,0 +1,48 @@
+body{
+    background-color: #bf70ff;
+}
+p{
+    background-color: rgb(215, 172, 255);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    width: 49%;
+}
+p img{
+width: 35%;
+height: 50%;
+margin: 2px;
+box-shadow: 10px 6px 5px 0px rgba(255,255,255,0.7);
+border-radius: 79px 79px 79px 79px;
+border: 8px solid #000000;
+}
+ul{
+margin: 0;
+padding: 0;
+list-style: none;
+width: 100%;
+}
+li{
+    margin: 0;
+    padding: 0;
+float: left;
+width:auto;
+
+}
+
+a{
+    background-color: rgb(205, 166, 255);
+    color: rgb(193, 253, 255);
+text-align: center;
+text-decoration: none;
+border: solid 1px rgb(207, 252, 255);
+}
+
+Li:hover a{
+background-color: rgb(166, 230, 255);
+color: rgb(227, 193, 255);
+border: solid 1px rgb(228, 187, 255);
+}
+
+
